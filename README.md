@@ -62,6 +62,10 @@
 * Notes from Coursera Deep Learning courses by Andrew Ng http://bit.ly/2T2Aw5Q
 * Deep Learning Specialization Course Notes http://bit.ly/2T45IBH
 
+### Fast.ai Courses
+* Deep Learning for Coders [Part 1] http://bit.ly/2T4F0Ja
+* Cutting Edge Deep Learning For Coders [Part 2] http://bit.ly/2T5WO6H
+
 ### University Courses
 * MIT 6.S191: Introduction to Deep Learning http://bit.ly/2T6uiSo
 * Oxford Course Deep Learning by _Nando Freitas_ http://bit.ly/2T47zGy
