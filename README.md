@@ -58,7 +58,7 @@
 * Chapter 3: Structuring Machine Learning Projects [Playlist] http://bit.ly/2T716ei
 * Chapter 4: Convolutional Neural Networks [Playlist] http://bit.ly/2T2ypyW
 * Chapter 5: Sequence Models [Playlist] http://bit.ly/2T71IR8
-
+#### Notes 
 * Notes from Coursera Deep Learning courses by Andrew Ng http://bit.ly/2T2Aw5Q
 * Deep Learning Specialization Course Notes http://bit.ly/2T45IBH
 
