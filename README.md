@@ -10,6 +10,32 @@
 ## Paid Books that are great ones, too!
 * Deep Learning with Python _Francis Chollet_ (Tool: Python) https://amzn.to/2T5cKGj
 * Deep Learning with R _Francis Chollet & J.J Allaire_ (Tool: R) https://amzn.to/2T91NDV
-* Deep Learning: A practitioner's approach _Josh Patterson & Adam Gibson_ (Tool:DeepLearning4j)  https://amzn.to/2T5wTfB
+* Deep Learning: A practitioner's approach _Josh Patterson & Adam Gibson_ (Tool: DeepLearning4j)  https://amzn.to/2T5wTfB
 * Fundamentals of Deep Learning _Nikhil Buduma_ (Tool: Tensorflow) https://amzn.to/2T6va9U
 * Tensorflow for Deep Learning _Bharath Ramsundar & Reza Bosagh Zadeh_ (Tool: Tensorflow) https://amzn.to/2T6MYkV
+* Deep Learning Cookbook _Douwe Osinga_ (Tool: Python) https://amzn.to/2T5ZyAY
+
+## MOOCs
+### Intro to Deep Learning by Siraj Raval (Youtube Videos)
+* How to Make a Prediction - Intro to Deep Learning #1 http://bit.ly/2zMZKMV
+* How to Do Linear Regression using Gradient Descent http://bit.ly/2T5rLbg
+* How to Make a Neural Network - Intro to Deep Learning #2 http://bit.ly/2zLNL25
+* How to Use Tensorflow for Classification (LIVE)  http://bit.ly/2zJYBp5
+* How to Do Sentiment Analysis - Intro to Deep Learning #3 http://bit.ly/2zJsd69
+* Word2Vec (tutorial) http://bit.ly/2zKMoR6
+* How to Do Mathematics Easily - Intro to Deep Learning #4 http://bit.ly/2zQEhlY
+* How to Predict Music You Love (LIVE) http://bit.ly/2zMhKXx
+* How to Make Data Amazing - Intro to Deep Learning #5 http://bit.ly/2zKZnSO
+* How to Simplify Your Dataset Easily (LIVE) http://bit.ly/2zJwSoF
+* How to Make an Image Classifier - Intro to Deep Learning #6 http://bit.ly/2zVeGIX
+* How to Make a Tensorflow Image Classifier (LIVE) http://bit.ly/2zKZ4rg
+* How to Predict Stock Prices Easily - Intro to Deep Learning #7 http://bit.ly/2zJaZWw
+* How to Use Tensorflow for Time Series (Live) http://bit.ly/2zQK2jA
+* How to Generate Art - Intro to Deep Learning #8 http://bit.ly/2zMnFfd
+* How to Do Style Transfer with Tensorflow (LIVE) http://bit.ly/2zJytLb
+* How to Generate Music - Intro to Deep Learning #9 http://bit.ly/2zL4T7Y
+* How to Generate Music with Tensorflow (LIVE) http://bit.ly/2zJc8xi
+* How to Make a Text Summarizer - Intro to Deep Learning #10 http://bit.ly/2zVgXDZ
+* How to Generate Your Own Wikipedia Articles (LIVE) http://bit.ly/2zJmu0f
+* 
+
