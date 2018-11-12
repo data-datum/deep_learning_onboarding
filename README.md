@@ -59,6 +59,9 @@
 * Chapter 4: Convolutional Neural Networks [Playlist] http://bit.ly/2T2ypyW
 * Chapter 5: Sequence Models [Playlist] http://bit.ly/2T71IR8
 
+* Notes from Coursera Deep Learning courses by Andrew Ng http://bit.ly/2T2Aw5Q
+* Deep Learning Specialization Course Notes http://bit.ly/2T45IBH
+
 ### University Courses
 * MIT 6.S191: Introduction to Deep Learning http://bit.ly/2T6uiSo
 * Oxford Course Deep Learning by _Nando Freitas_ http://bit.ly/2T47zGy
