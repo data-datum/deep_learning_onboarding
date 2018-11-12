@@ -62,7 +62,7 @@
 * Notes from Coursera Deep Learning courses by Andrew Ng http://bit.ly/2T2Aw5Q
 * Deep Learning Specialization Course Notes http://bit.ly/2T45IBH
 
-### Fast.ai Courses
+### Fast.ai Course with Rachel Thomas and Jeremy Howard 
 * Deep Learning for Coders [Part 1] http://bit.ly/2T4F0Ja
 * Cutting Edge Deep Learning For Coders [Part 2] http://bit.ly/2T5WO6H
 
