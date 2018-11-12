@@ -8,7 +8,7 @@
 * Neural Networks and Deep Learning _Michael Nielsen_   http://bit.ly/2T6IwCI
 
 ## Paid Books that are great ones, too!
-* Deep Learning with Python _Francis Chollet_ (Tool: Python) https://amzn.to/2T5cKGj
+* Deep Learning with Python _Francis Chollet_ (Tool: Python) https://amzn.to/2T5cKGj [Jupyter Notebooks] http://bit.ly/2T6mctd
 * Deep Learning with R _Francis Chollet & J.J Allaire_ (Tool: R) https://amzn.to/2T91NDV
 * Deep Learning: A practitioner's approach _Josh Patterson & Adam Gibson_ (Tool: DeepLearning4j)  https://amzn.to/2T5wTfB
 * Fundamentals of Deep Learning _Nikhil Buduma_ (Tool: Tensorflow) https://amzn.to/2T6va9U
