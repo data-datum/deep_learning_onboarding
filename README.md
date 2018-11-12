@@ -37,5 +37,19 @@
 * How to Generate Music with Tensorflow (LIVE) http://bit.ly/2zJc8xi
 * How to Make a Text Summarizer - Intro to Deep Learning #10 http://bit.ly/2zVgXDZ
 * How to Generate Your Own Wikipedia Articles (LIVE) http://bit.ly/2zJmu0f
-* 
+* How to Make a Language Translator - Intro to Deep Learning #11 http://bit.ly/2zHUERU
+* How to Use Tensorflow for Seq2seq Models (LIVE) http://bit.ly/2zLrdOT
+* How to Make a Chatbot - Intro to Deep Learning #12 http://bit.ly/2zNbgYF
+* How to Use Tensorboard (LIVE) http://bit.ly/2zKGM9G
+* How to Win Slot Machines - Intro to Deep Learning #13 http://bit.ly/2zKJFHw
+* How to Beat Pong Using Policy Gradients (LIVE) http://bit.ly/2zL4KBA
+* How to Generate Images - Intro to Deep Learning #14 http://bit.ly/2zLavPv
+* How to Generate Images with Tensorflow (LIVE) http://bit.ly/2zMpadu
+* How to Generate Video - Intro to Deep Learning #15 http://bit.ly/2zPfRcS
+* Generative Adversarial Networks (LIVE) http://bit.ly/2zL7HCa
+* How to Convert Text to Images - Intro to Deep Learning #16 http://bit.ly/2zKNT1S
+* Generative Adversarial Networks for Style Transfer (LIVE) http://bit.ly/2T9wcSz
+* How to Learn from Little Data - Intro to Deep Learning #17 http://bit.ly/2T3Ww02
+* Differentiable Neural Computer (LIVE) http://bit.ly/2T5KinW
+
 
