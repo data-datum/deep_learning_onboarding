@@ -15,7 +15,7 @@
 * Tensorflow for Deep Learning _Bharath Ramsundar & Reza Bosagh Zadeh_ (Tool: Tensorflow) https://amzn.to/2T6MYkV
 * Deep Learning Cookbook _Douwe Osinga_ (Tool: Python) https://amzn.to/2T5ZyAY
 
-## MOOCs
+## MOOC
 ### Intro to Deep Learning by Siraj Raval (Youtube Videos)
 * How to Make a Prediction - Intro to Deep Learning #1 http://bit.ly/2zMZKMV
 * How to Do Linear Regression using Gradient Descent http://bit.ly/2T5rLbg
@@ -52,4 +52,14 @@
 * How to Learn from Little Data - Intro to Deep Learning #17 http://bit.ly/2T3Ww02
 * Differentiable Neural Computer (LIVE) http://bit.ly/2T5KinW
 
+### Deep Learning Specialization with Andrew Ng (only videos)
+* Chapter 1: Introduction to Deep Learning [Playlist] http://bit.ly/2T41mul
+* Chapter 2: Improving deep neural networks: hyperparameter tuning, regularization and optimization [Playlist] http://bit.ly/2T5LKXd
+* Chapter 3: Structuring Machine Learning Projects [Playlist] http://bit.ly/2T716ei
+* Chapter 4: Convolutional Neural Networks [Playlist] http://bit.ly/2T2ypyW
+* Chapter 5: Sequence Models [Playlist] http://bit.ly/2T71IR8
+
+### University Courses
+* MIT 6.S191: Introduction to Deep Learning http://bit.ly/2T6uiSo
+* Oxford Course Deep Learning by _Nando Freitas_ http://bit.ly/2T47zGy
 
