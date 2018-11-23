@@ -71,3 +71,4 @@
 * Oxford Course Deep Learning by _Nando Freitas_ http://bit.ly/2T47zGy
 * CS231n Convolutional Neural Networks for Visual Recognition http://bit.ly/2A1ZidE
 * CS224n: Natural Language Processing with Deep Learning https://stanford.io/2A7k8bF
+* Advanced Deep Learning and Reinforcement Learning _DeepMind & UCLA_ http://bit.ly/2AgSrgt
