@@ -6,6 +6,7 @@
 * A brief introduction to Neural Networks _David Kriesel_ http://bit.ly/2T3bTG5
 * Neural Networks and Learning Machines _Simon Haykin_ http://bit.ly/2T7Yj4a
 * Neural Networks and Deep Learning _Michael Nielsen_   http://bit.ly/2T6IwCI
+* Grokking Deep Learning _Andrew Trask_ http://bit.ly/2DO1YP0
 
 ## Paid Books that are great ones, too!
 * Deep Learning with Python _Francis Chollet_ (Tool: Python) https://amzn.to/2T5cKGj [Jupyter Notebooks] http://bit.ly/2T6mctd
@@ -65,6 +66,7 @@
 ### Fast.ai Course with Rachel Thomas and Jeremy Howard 
 * Deep Learning for Coders [Part 1] http://bit.ly/2T4F0Ja
 * Cutting Edge Deep Learning For Coders [Part 2] http://bit.ly/2T5WO6H
+* Practical Deep Learning for Coders v3 https://course.fast.ai/
 
 ### University Courses
 * MIT 6.S191: Introduction to Deep Learning http://bit.ly/2T6uiSo
