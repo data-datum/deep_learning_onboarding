@@ -8,6 +8,7 @@ Last Update: 07/04/2019
 * Neural Networks and Learning Machines _Simon Haykin_ http://bit.ly/2T7Yj4a
 * Neural Networks and Deep Learning _Michael Nielsen_   http://bit.ly/2T6IwCI
 * Grokking Deep Learning _Andrew Trask_ http://bit.ly/2DO1YP0
+* Dive into Deep Learning _Zhang, A; Lipton, Z; Li, M; Smola, A._ http://d2l.ai/
 
 ## Paid Books that are great ones, too!
 * Deep Learning with Python _Francis Chollet_ (Tool: Python) https://amzn.to/2T5cKGj [Jupyter Notebooks] http://bit.ly/2T6mctd
