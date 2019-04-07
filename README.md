@@ -1,4 +1,5 @@
 # How to get started in Deep Learning
+Last Update: 07/04/2019
 
 ## Free Books
 * Deep Learning _Ian Godfellow_ http://bit.ly/2SZiIbT
