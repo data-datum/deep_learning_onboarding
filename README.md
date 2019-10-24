@@ -42,4 +42,4 @@ Last Update: 24/10/2019
 * CS224n: Natural Language Processing with Deep Learning https://stanford.io/2A7k8bF
 * Advanced Deep Learning and Reinforcement Learning _DeepMind & UCLA_ http://bit.ly/2AgSrgt
 * Stanford CS230: Deep Learning - Andrew Ng - https://stanford.io/2WQtlPi
-* Stanford CS234: Reinforcement Learning - Emma Brunskill - stanford.io/reinfor
+* Stanford CS234: Reinforcement Learning - Emma Brunskill - https://stanford.io/2WUfGGL
