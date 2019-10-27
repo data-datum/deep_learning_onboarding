@@ -54,7 +54,7 @@ Last Update: 26/10/2019
 ### Useful Blogposts
 * Optimization Algorithms bit.ly/optimize-algo
 * Gradient Descent bit.ly/alfa-gradient
-* An overview of gradient descent optimization algorithms bit.ly/optimize-nn
+* An overview of gradient descent optimization algorithms http://bit.ly/optimize-nn
 * Why Momentum Really Works bit.ly/momentum-works
 * Understanding Convolutions bit.ly/colah-conv
 * How do Convolutional Neural Networks work bit.ly/how-cnn-works
