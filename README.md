@@ -1,5 +1,5 @@
 # How to get started in Deep Learning
-Last Update: 24/10/2019
+Last Update: 26/10/2019
 
 ## Free Books
 * Deep Learning _Ian Godfellow_ http://bit.ly/2SZiIbT
@@ -17,6 +17,8 @@ Last Update: 24/10/2019
 * Fundamentals of Deep Learning _Nikhil Buduma_ (Tool: Tensorflow) https://amzn.to/2T6va9U
 * Tensorflow for Deep Learning _Bharath Ramsundar & Reza Bosagh Zadeh_ (Tool: Tensorflow) https://amzn.to/2T6MYkV
 * Deep Learning Cookbook _Douwe Osinga_ (Tool: Python) https://amzn.to/2T5ZyAY
+* Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play https://amzn.to/2NgMx5x
+* GANs in Action: Deep learning with Generative Adversarial Networks https://amzn.to/32QXlOu
 
 ## MOOC
 ### Deep Learning Specialization with Andrew Ng (only videos)
@@ -43,3 +45,26 @@ Last Update: 24/10/2019
 * Advanced Deep Learning and Reinforcement Learning _DeepMind & UCLA_ http://bit.ly/2AgSrgt
 * Stanford CS230: Deep Learning - Andrew Ng - https://stanford.io/2WQtlPi
 * Stanford CS234: Reinforcement Learning - Emma Brunskill - https://stanford.io/2WUfGGL
+
+### Great arXiv Papers
+* Visualizing and Understanding Convolutional Networks. Link: https://arxiv.org/abs/1311.2901
+* A disciplined approach to neural network hyper-parameters: Part 1 - learning rate, batch size, momentum, and weight decay https://arxiv.org/abs/1803.09820
+* Cyclical Learning Rates for Training Neural Networks https://arxiv.org/abs/1506.01186
+
+### Useful Blogposts
+* Optimization Algorithms bit.ly/optimize-algo
+* Gradient Descent bit.ly/alfa-gradient
+* An overview of gradient descent optimization algorithms bit.ly/optimize-nn
+* Why Momentum Really Works bit.ly/momentum-works
+* Understanding Convolutions bit.ly/colah-conv
+* How do Convolutional Neural Networks work bit.ly/how-cnn-works
+* The Building Blocks of Interpretability bit.ly/interpret-cnn
+* The Unreasonable Effectiveness of Recurrent Neural Networks bit.ly/karpathy-rnn
+* Understanding LSTM Networks bit.ly/understand-lstm
+* Attention and Augmented Recurrent Neural Networks bit.ly/attention-rnn
+* Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs bit.ly/rnn-tutorial-1
+* From Autoencoder to Beta-VAE bit.ly/beta-vae
+* InfoGAN bit.ly/info-gan
+* Wasserstein GAN bit.ly/W-gan
+* From GAN to WGAN bit.ly/gan-wgan
+* Flow-based Deep Generative Models bit.ly/flow-based-generative
