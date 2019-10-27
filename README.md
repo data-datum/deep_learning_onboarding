@@ -45,6 +45,7 @@ Last Update: 26/10/2019
 * Advanced Deep Learning and Reinforcement Learning _DeepMind & UCLA_ http://bit.ly/2AgSrgt
 * Stanford CS230: Deep Learning - Andrew Ng - https://stanford.io/2WQtlPi
 * Stanford CS234: Reinforcement Learning - Emma Brunskill - https://stanford.io/2WUfGGL
+* Berkeley CS285: Deep Reinforcement Learning - Sergey Levine - http://rail.eecs.berkeley.edu/deeprlcourse/
 
 ### Great arXiv Papers
 * The Matrix Calculus You Need For Deep Learning https://arxiv.org/abs/1802.01528
