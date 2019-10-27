@@ -52,19 +52,19 @@ Last Update: 26/10/2019
 * Cyclical Learning Rates for Training Neural Networks https://arxiv.org/abs/1506.01186
 
 ### Useful Blogposts
-* Optimization Algorithms bit.ly/optimize-algo
-* Gradient Descent bit.ly/alfa-gradient
+* Optimization Algorithms http://bit.ly/optimize-algo
+* Gradient Descent http://bit.ly/alfa-gradient
 * An overview of gradient descent optimization algorithms http://bit.ly/optimize-nn
-* Why Momentum Really Works bit.ly/momentum-works
-* Understanding Convolutions bit.ly/colah-conv
-* How do Convolutional Neural Networks work bit.ly/how-cnn-works
-* The Building Blocks of Interpretability bit.ly/interpret-cnn
-* The Unreasonable Effectiveness of Recurrent Neural Networks bit.ly/karpathy-rnn
-* Understanding LSTM Networks bit.ly/understand-lstm
-* Attention and Augmented Recurrent Neural Networks bit.ly/attention-rnn
-* Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs bit.ly/rnn-tutorial-1
-* From Autoencoder to Beta-VAE bit.ly/beta-vae
-* InfoGAN bit.ly/info-gan
-* Wasserstein GAN bit.ly/W-gan
-* From GAN to WGAN bit.ly/gan-wgan
-* Flow-based Deep Generative Models bit.ly/flow-based-generative
+* Why Momentum Really Works http://bit.ly/momentum-works
+* Understanding Convolutions http://bit.ly/colah-conv
+* How do Convolutional Neural Networks work http://bit.ly/how-cnn-works
+* The Building Blocks of Interpretability http://bit.ly/interpret-cnn
+* The Unreasonable Effectiveness of Recurrent Neural Networks http://bit.ly/karpathy-rnn
+* Understanding LSTM Networks http://bit.ly/understand-lstm
+* Attention and Augmented Recurrent Neural Networks http://bit.ly/attention-rnn
+* Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs http://bit.ly/rnn-tutorial-1
+* From Autoencoder to Beta-VAE http://bit.ly/beta-vae
+* InfoGAN http://bit.ly/info-gan
+* Wasserstein GAN http://bit.ly/W-gan
+* From GAN to WGAN http://bit.ly/gan-wgan
+* Flow-based Deep Generative Models http://bit.ly/flow-based-generative
