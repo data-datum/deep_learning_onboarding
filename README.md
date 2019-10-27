@@ -47,9 +47,20 @@ Last Update: 26/10/2019
 * Stanford CS234: Reinforcement Learning - Emma Brunskill - https://stanford.io/2WUfGGL
 
 ### Great arXiv Papers
+* The Matrix Calculus You Need For Deep Learning https://arxiv.org/abs/1802.01528
 * Visualizing and Understanding Convolutional Networks. Link: https://arxiv.org/abs/1311.2901
 * A disciplined approach to neural network hyper-parameters: Part 1 - learning rate, batch size, momentum, and weight decay https://arxiv.org/abs/1803.09820
 * Cyclical Learning Rates for Training Neural Networks https://arxiv.org/abs/1506.01186
+* Tutorial on Variational Autoencoders https://arxiv.org/abs/1606.05908
+* Generative Adversarial Networks: An Overview https://arxiv.org/abs/1710.07035
+* Operator Variational Inference https://arxiv.org/abs/1610.09033
+* Variational Inference: A Unified Framework of Generative Models and Some Revelations https://arxiv.org/pdf/1807.05936.pdf
+* On Unifying Deep Generative Models https://arxiv.org/abs/1706.00550
+* A Brief Survey of Deep Reinforcement Learning https://arxiv.org/abs/1708.05866
+* Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review https://arxiv.org/abs/1805.00909
+* Modern Deep Reinforcement Learning Algorithms https://arxiv.org/abs/1906.10025
+* Tutorial and Survey on Probabilistic Graphical Model and Variational Inference in Deep Reinforcement Learning https://arxiv.org/abs/1908.09381
+* Meta-Learning: A Survey https://arxiv.org/abs/1810.03548
 
 ### Useful Blogposts
 * Optimization Algorithms http://bit.ly/optimize-algo
@@ -68,3 +79,8 @@ Last Update: 26/10/2019
 * Wasserstein GAN http://bit.ly/W-gan
 * From GAN to WGAN http://bit.ly/gan-wgan
 * Flow-based Deep Generative Models http://bit.ly/flow-based-generative
+
+### Deep Learning + Bayesian Modeling
+* Seminars DeepBayes Summer School 2017 https://github.com/bayesgroup/deepbayes2017
+* Seminars DeepBayes Summer School 2018 https://github.com/bayesgroup/deepbayes-2018
+* Seminars DeepBayes Summer School 2019 https://github.com/bayesgroup/deepbayes-2019
