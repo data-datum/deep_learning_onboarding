@@ -46,6 +46,9 @@ Last Update: 26/10/2019
 * Stanford CS230: Deep Learning - Andrew Ng - https://stanford.io/2WQtlPi
 * Stanford CS234: Reinforcement Learning - Emma Brunskill - https://stanford.io/2WUfGGL
 * Berkeley CS285: Deep Reinforcement Learning - Sergey Levine - http://rail.eecs.berkeley.edu/deeprlcourse/
+* CSC 2541 Fall 2016: Differentiable Inference and Generative Models https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html
+* CS294-158 Deep Unsupervised Learning Spring 2019 https://sites.google.com/view/berkeley-cs294-158-sp19/home
+
 
 ### Great arXiv Papers
 * The Matrix Calculus You Need For Deep Learning https://arxiv.org/abs/1802.01528
