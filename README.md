@@ -1,6 +1,8 @@
 # How to get started in Deep Learning
 Last Update: 26/10/2019
 
+ 
+Papers with code: https://paperswithcode.com/ 
 ## Free Books
 * Deep Learning _Ian Godfellow_ http://bit.ly/2SZiIbT
 * Deep Learning Tutorial _LISA lab_ http://bit.ly/2T5iP5O
@@ -27,6 +29,8 @@ Last Update: 26/10/2019
 * Chapter 3: Structuring Machine Learning Projects [Playlist] http://bit.ly/2T716ei
 * Chapter 4: Convolutional Neural Networks [Playlist] http://bit.ly/2T2ypyW
 * Chapter 5: Sequence Models [Playlist] http://bit.ly/2T71IR8
+
+
 
 #### Notes 
 * Notes from Coursera Deep Learning courses by Andrew Ng http://bit.ly/2T2Aw5Q
