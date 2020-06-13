@@ -1,5 +1,5 @@
 # How to get started in Deep Learning
-Last Update: 26/10/2019
+Last Update: 12/06/2020
 
  
 Papers with code: https://paperswithcode.com/ 
