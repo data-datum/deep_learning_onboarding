@@ -69,6 +69,7 @@ Papers with code: https://paperswithcode.com/
 * Modern Deep Reinforcement Learning Algorithms https://arxiv.org/abs/1906.10025
 * Tutorial and Survey on Probabilistic Graphical Model and Variational Inference in Deep Reinforcement Learning https://arxiv.org/abs/1908.09381
 * Meta-Learning: A Survey https://arxiv.org/abs/1810.03548
+* Normalizing Flows for Probabilistic Modeling and Inference https://arxiv.org/pdf/1912.02762v1.pdf
 
 ### Useful Blogposts
 * Optimization Algorithms http://bit.ly/optimize-algo
