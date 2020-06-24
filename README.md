@@ -31,7 +31,7 @@ Papers with code: https://paperswithcode.com/
 * Chapter 5: Sequence Models [Playlist] http://bit.ly/2T71IR8
 
 ## Talks
-* Deep Generative Models [slides](https://www.shakirm.com/slides/DeepGenModelsTutorial.pdf)[video](https://bit.ly/3hVSZO4)
+* Deep Generative Models [slides](https://www.shakirm.com/slides/DeepGenModelsTutorial.pdf) and [video](https://bit.ly/3hVSZO4)
 
 
 
