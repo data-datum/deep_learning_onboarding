@@ -30,6 +30,9 @@ Papers with code: https://paperswithcode.com/
 * Chapter 4: Convolutional Neural Networks [Playlist] http://bit.ly/2T2ypyW
 * Chapter 5: Sequence Models [Playlist] http://bit.ly/2T71IR8
 
+## Talks
+* Deep Generative Models [slides](https://www.shakirm.com/slides/DeepGenModelsTutorial.pdf)[video](https://bit.ly/3hVSZO4)
+
 
 
 #### Notes 
@@ -88,6 +91,8 @@ Papers with code: https://paperswithcode.com/
 * Wasserstein GAN http://bit.ly/W-gan
 * From GAN to WGAN http://bit.ly/gan-wgan
 * Flow-based Deep Generative Models http://bit.ly/flow-based-generative
+* What is wrong with VAEs? https://bit.ly/2Z3JUtJ
+
 
 ### Deep Learning + Bayesian Modeling
 * Seminars DeepBayes Summer School 2017 https://github.com/bayesgroup/deepbayes2017
