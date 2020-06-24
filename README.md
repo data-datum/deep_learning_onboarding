@@ -55,6 +55,7 @@ Papers with code: https://paperswithcode.com/
 * Berkeley CS285: Deep Reinforcement Learning - Sergey Levine - http://rail.eecs.berkeley.edu/deeprlcourse/
 * CSC 2541 Fall 2016: Differentiable Inference and Generative Models https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html
 * CS294-158 Deep Unsupervised Learning Spring 2019 https://sites.google.com/view/berkeley-cs294-158-sp19/home
+* Deep Learning NYU Center for Data Science. Instructors:Yann LeCun & Alfredo Canziani https://atcold.github.io/pytorch-Deep-Learning/
 
 
 ### Great arXiv Papers
